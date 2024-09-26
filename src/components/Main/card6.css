@@ -1,0 +1,56 @@
+
+.contact-form{
+   width: 100%;
+}
+.contact-form>.in{
+width: 100%;
+}
+.contact-form>.in>h6{
+   color: white;
+}
+.card66{
+    border: 1px solid lightgray;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right,#424141,#161616eb);
+    border-radius: 25px 25px 25px 25px ;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 10px;
+ }
+ .logo2{
+
+    margin-top: 0px;
+    height: 40%;
+    width: 14%;
+ }
+ .icon2{
+    padding-left: 1.5rem;
+    width: 14%;
+    height: 80%;
+ }
+ .heading{
+    margin-top: 0%;
+    height: 50%;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-top: 0%;
+ }
+ .heading>.p1{
+    padding-top: 0%;
+    width: 100%;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+ }
+ .heading>.p2{
+    width: 100%;
+
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-top: 0%;
+    padding-top: 0%;
+ }

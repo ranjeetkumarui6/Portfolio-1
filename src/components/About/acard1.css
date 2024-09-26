@@ -1,0 +1,64 @@
+.self-summary>.star{
+    font-size: 80px;
+    margin-top: 0%;
+    padding-top: 0px;
+    color: #727070;
+    height: 90%;
+    margin-bottom: 25px;
+}
+.self-summary{
+    height: 110px;
+    width: 700px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.self-summary>.self{
+    color: white;
+    font-weight: 600;
+    align-items: center;
+    font-size: 400%;
+}
+.squre{
+    margin-top: 25px;
+    /* height:75% ; */
+    padding-bottom: 0%;
+}
+.squrecard{
+    border: 1px solid lightgray;
+    background-color: #232323eb;
+    border-radius: 30px;
+    justify-content: space-between;
+    padding: 5% 5% 0% 5%;
+    height:75% ;
+
+}
+.squrecard>span{
+    color: white;
+}
+.font1{
+    font-size: small;
+    color: rgb(166, 173, 180);
+}
+
+.sign{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 55%;
+}
+@media screen and (max-width:576px) {
+.self-summary{
+    width: 100%;
+    margin-bottom: 15px;
+    height: 50px;
+}
+.self-summary>.star{
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+.self-summary>.self{
+    font-size: 35px;
+}
+}

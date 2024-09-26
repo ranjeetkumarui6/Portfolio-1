@@ -1,0 +1,66 @@
+
+.squrecard4{
+    border: 1px solid lightgray;
+    background-color: #232323eb;
+    border-radius: 30px;
+    min-width: 170px;
+    max-width: 300px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    padding: 10% 5% 10% 5%;
+    
+
+}
+.squrecard4>span{
+    color: white;
+}
+.font4{
+    font-size: small;
+    color: rgb(166, 173, 180);
+}
+.doublecolumn{
+    text-align: center;
+    margin-left: 10%;
+    width: 200px;
+    height: 124px;
+    border-radius: 3rem;
+    background-color: rgb(38, 37, 37);
+    border: 1px solid rgb(228, 213, 213);
+}
+.doublecolumn>ul{
+    width: 100%;
+    text-align: left;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-left: -1.10rem;
+    display: flex;
+}
+.doublecolumn>ul>.li1{
+    width: 50%;
+    font-size: 3rem;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 13%;
+    margin-bottom: 3%;
+    padding: 0% 10% 5% 7%;
+    color: rgb(200, 195, 195);
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: rgb(71, 70, 70);
+}
+.doublecolumn>ul>.li2{
+    width: 50%;
+    font-size: 3rem;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 13%;
+    margin-bottom: 3%;
+    padding: 0% 10% 5% 7%;
+    border-radius: 50%;
+    margin-left: 5px;
+    color: rgb(200, 195, 195);
+
+    background-color: rgb(71, 70, 70);
+
+}

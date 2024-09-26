@@ -1,0 +1,68 @@
+.amypic{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 0px 30px 0px;
+    text-align: center;
+    padding: 0%;
+    margin-top: 20px;
+    border: 2px solid black;
+
+}
+
+.amaincol{
+    border: 1px solid lightgray;
+height: 400px;
+width: 400px;
+display: inline-block;
+    box-sizing: border-box;
+    background-color:#232323eb ;
+    border-radius: 25px 25px 25px 25px ;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    flex-wrap: wrap;
+    margin-bottom: 3%;
+    padding-top: 3.50%;
+    /* padding-bottom: 3.50%; */
+ }
+@media screen and (min-width:992px) and (max-width:1200px){
+.amaincol{
+    margin-left: 30%;
+    width: 500px;
+}
+}
+/* .mainrow{
+    padding-top: 5%
+    padding: 0%;
+    margin-left: 0%;
+    width: 100%;
+}
+.maincol1{
+    padding-top: 5%;
+} */
+/* }
+.maincol{
+    background-color:#232323eb ;
+    border-radius: 25px 25px 25px 25px ;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-top: 3.50%;
+    padding-bottom: 3.50%;
+    padding-left: 3%;
+    padding-right: 2%;
+ }
+.maincol2{
+    background-color:#232323eb ;
+    border-radius: 25px 25px 25px 25px ;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-top: 3.50%;
+    padding-bottom: 3.50%;
+    padding-left: 3%;
+    padding-right: 2%;
+}

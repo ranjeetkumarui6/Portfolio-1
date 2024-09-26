@@ -1,0 +1,59 @@
+.wcard {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+
+.bcard {
+    width: 49rem;
+}
+
+.acard {
+    padding-top: 30px;
+    width: 30%;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+@media screen and (min-width:580px) and (max-width:910px) {
+
+    .wself-summary>.wself {
+        font-size: 45px;
+    }
+
+    .wself-summary>.wstar {
+        font-size: 40px;
+        text-align: left;
+    }
+
+    .wself-summary {
+        height: 110px;
+        width: 700px;
+        margin-top: 0;
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 10px;
+    }
+
+    .bcard {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 876px) and (max-width:1255px) {
+    .acard {
+        display: flex;
+        flex-wrap: nowrap;
+        width: 100%;
+
+        margin-bottom: 20px;
+    }
+}
+.wcard7{
+    padding-top: 5%;
+    width: 100%;
+    text-align: center;
+}

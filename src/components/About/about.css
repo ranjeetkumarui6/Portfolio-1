@@ -1,0 +1,7 @@
+.acss2{
+    box-sizing: border-box;
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

@@ -1,0 +1,33 @@
+
+.squrecard2{
+    border: 1px solid lightgray;
+    background-color: #232323eb;
+    border-radius: 30px;
+    min-width: 300px;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10% 5% 10% 5%;
+    /* height:75% ; */
+
+}
+.squrecard2>span{
+    color: white;
+}
+.font2{
+    font-size: small;
+    color: rgb(166, 173, 180);
+}
+
+.sign2{
+    text-align: center;
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 2px;
+    width: 70%;
+    height: auto;
+    /* width: 60%; */
+    /* padding: 10% 10% 10% 10%; */
+    /* height: auto; */
+}

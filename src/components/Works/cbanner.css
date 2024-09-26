@@ -1,0 +1,24 @@
+.csqurecard{
+    border: 1px solid lightgray;
+    background-color: #232323eb;
+    border-radius: 30px;
+    justify-content: space-between;
+    padding: 30px;
+    height:300px ;
+    width:375px;
+    margin-bottom: 20px;
+
+}
+.csqurecard>span{
+    color: white;
+}
+.cfont1{
+    font-size: small;
+    color: rgb(166, 173, 180);
+}
+
+.csign{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}

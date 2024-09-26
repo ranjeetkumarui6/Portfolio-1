@@ -1,0 +1,21 @@
+.footer{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.footer>ul{
+    list-style-type: none;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+.footer>ul>li{
+    color: rgb(99, 96, 96);
+    font-weight: 500;
+}
+.footer>p{
+    color:rgb(99, 96, 96) ;
+    font-weight: 500;
+}
+.footer>p>span{
+    color: aqua;
+}

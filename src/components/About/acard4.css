@@ -1,0 +1,37 @@
+.acard4{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+    padding: 15px;
+    margin-right: 10px;
+ }
+ .asqure{
+    padding-bottom: 40px;
+    height: 350px;
+    margin-left: 2%;
+}
+ .asqurecard{
+    border: 1px solid lightgray;
+    background-color: #232323eb;
+    border-radius: 30px;
+    justify-content: space-between;
+    padding: 5% 5% 0% 5%;
+    height:75% ;
+
+}
+.asqurecard>span{
+    color: white;
+}
+.afont1{
+    font-size: small;
+    color: rgb(166, 173, 180);
+}
+
+.asign{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 70%;
+}
